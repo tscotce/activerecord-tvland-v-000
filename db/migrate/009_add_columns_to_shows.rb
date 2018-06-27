@@ -1,0 +1,1 @@
+class AddColumnsToShows < ActiveRecord::Migration
